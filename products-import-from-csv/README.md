@@ -14,3 +14,5 @@ Tenant ID can also be found under settings menu [Tenant](https://pim.crystallize
 6. follow command line instructions
 
 You can also read the blog post on [CSV product import to PIM](https://crystallize.com/blog/csv-product-import-into-pim)
+
+TODO: support JSON
